@@ -1,0 +1,6 @@
+com/matthewtomich/phonebook/PhonebookConfiguration.class
+com/matthewtomich/phonebook/resources/TaskResourse.class
+com/matthewtomich/phonebook/resources/ContactResource.class
+com/matthewtomich/phonebook/dto/Contact.class
+com/matthewtomich/phonebook/App.class
+com/matthewtomich/phonebook/dto/Task.class
